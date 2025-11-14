@@ -1,1 +1,1 @@
-# AlgorithmStudy
+# baekjoon_study
